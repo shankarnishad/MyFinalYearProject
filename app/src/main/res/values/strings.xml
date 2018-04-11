@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shome</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Intelligent Homes</string>
+    <string name="slide_5_title">Smarter Living</string>
+    <string name="slide_1_desc">Creating the perfect easy to use, smart home experience for you!!</string>
+
+    <string name="slide_2_title">SMART HOME</string>
+    <string name="slide_2_desc">Control your Smart Home with your Smart Phone.</string>
+
+    <string name="slide_3_title">Google Assistant</string>
+    <string name="slide_6_title">Voice Control</string>
+    <string name="slide_3_desc">You can control smart home devices including lights using your Google Assistant</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Control All Types Of  Lighting And Home Appliances From Anywhere.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
